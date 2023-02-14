@@ -13,3 +13,5 @@ Vanila Javascript로 csr, ssr 구현하기 example repo 입니다.
 ```bash
 npm i && node server.js
 ```
+
+localhost:7777 접속
