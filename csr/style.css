@@ -1,4 +1,6 @@
-#root {
-  background-color: white;
-  color: black;
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #282c35;
+    color: #ffffff;
+  }
 }
